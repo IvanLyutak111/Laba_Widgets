@@ -1,0 +1,17 @@
+3
+3
+Power= 90
+RED= 45
+GREEN= 34
+BLUE= 23
+Force= 36.035
+Power= 80
+RED= 23
+GREEN= 67
+BLUE= 34
+Force= 50.082
+Power= 70
+RED= 24
+GREEN= 54
+BLUE= 76
+Force= 47.538
